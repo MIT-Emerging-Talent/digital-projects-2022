@@ -14,6 +14,7 @@ Some small guides to help you find your way:
 
 - [Learning in Public](./learning-in-public.md)
 - [Check-Ins](./check-ins.md)
+- [Project Repository](./project-repository.md)
 - [Planning & Collaboration](./planning-and-collaboration.md)
 - [Project Phases](./project-phases.md)
 - [Finishing Touches](./finishing-touches.md)
