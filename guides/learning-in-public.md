@@ -41,3 +41,22 @@ to keep things tidy!
 - Try to stay consistent. Using a naming convention for your file/folder names
   and trying to format your markdown files consistently will make
   `/shared-notes` much easier for others to study.
+
+## Class Repo Issues
+
+The best place to ask and answer your questions are issues in your class
+repository. There are 3 labels you should learn to use early on:
+
+- **`help wanted`:** The `help wanted` label is used to ask for help when you
+  are blocked with some part of your work. Be sure to clearly describe your
+  problem, what you've tried and how someone can help you.
+- **`question`:** The `question` label is used to ask for clarification about
+  something, a concept, a workflow, ... be sure to clearly outline what you do
+  and don't understand about the topic so others know how to help.
+- **`discuss`:** The `discuss` label is used when there is something to decide
+  and you need more than one person's input. Be sure to clearly describe the
+  topic of discussion and explain why it's important so others know how to join
+  the conversation.
+
+> PS: You can [use all three labels](https://github.com/dwyl/labels/issues/60)
+> on one issue!
