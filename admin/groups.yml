@@ -1,24 +1,35 @@
 - name: Group 1
-  topic: 'summary of group project topic'
-  repo: link-to-project-repo
+  topic: ''
+  repo: https://github.com/MIT-ReACT/group-1-2022
   members:
+    - user: JackMwisa
+      name: Jack Mwisa
+    - user: MOkolla
+      name: Mary Okolla
 
 - name: Group 2
-  topic: 'summary of group project topic'
-  repo: link-to-project-repo
+  topic: ''
+  repo: https://github.com/MIT-ReACT/group-2-2022
   members:
+    - user: Mafomm
+      name: Mikal Afewerki
+    - user: YonTess
+      name: Yonatan
 
 - name: Group 3
-  topic: 'summary of group project topic'
-  repo: link-to-project-repo
+  topic: ''
+  repo: https://github.com/MIT-ReACT/group-3-2022
   members:
+    - user: mutombo-creator
+      name: Mutombo
+    - user: Sia082
+      name: Syed
 
 - name: Group 4
-  topic: 'summary of group project topic'
-  repo: link-to-project-repo
+  topic: ''
+  repo: https://github.com/MIT-ReACT/group-4-2022
   members:
-
-- name: Group 4
-  topic: 'summary of group project topic'
-  repo: link-to-project-repo
-  members:
+    - user: sosso2022
+      name: Alida
+    - user: joellepidi22
+      name: Joelle Pidi
