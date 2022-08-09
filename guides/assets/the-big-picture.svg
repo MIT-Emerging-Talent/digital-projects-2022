@@ -26,12 +26,12 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg1025"
+     inkscape:current-layer="g969"
      inkscape:window-maximized="0"
      inkscape:window-y="23"
      inkscape:window-x="0"
-     inkscape:cy="391.4313"
-     inkscape:cx="468.91368"
+     inkscape:cy="406.34297"
+     inkscape:cx="403.30234"
      inkscape:zoom="0.67061577"
      showgrid="false"
      id="namedview1027"
@@ -44,10 +44,17 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <!-- svg-source:excalidraw -->
   <defs
      id="defs835">
+    <rect
+       x="257.97186"
+       y="216.21919"
+       width="34.296837"
+       height="65.611341"
+       id="rect940" />
     <style
        id="style833">
       @font-face {
@@ -360,13 +367,15 @@
     <text
        id="text951"
        direction="ltr"
-       style="white-space:pre"
+       style="white-space:pre;font-size:22.26200000000000045px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;fill:#000000;"
        text-anchor="start"
        fill="#000000"
        font-size="22.262px"
        font-family="Cascadia, 'Segoe UI Emoji'"
        y="21.714354"
-       x="0">The World</text>
+       x="0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3643px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan944">The World</tspan></text>
   </g>
   <g
      transform="matrix(0.88483134,0,0,0.87166911,47.832081,25.169342)"
@@ -402,17 +411,19 @@
   </g>
   <g
      id="g969"
-     transform="matrix(0.45445347,0.7479156,-0.75920915,0.44769329,530.17017,321.38955)">
+     transform="matrix(0.47722554,0.7479156,-0.79725213,0.44769329,500.79812,276.65454)">
     <text
        id="text967"
        direction="ltr"
-       style="white-space:pre"
+       style="font-size:20px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;white-space:pre;fill:#000000"
        text-anchor="start"
        fill="#000000"
        font-size="20px"
        font-family="Cascadia, 'Segoe UI Emoji'"
        y="22.691015"
-       x="14.339299">... is modeled with ...</text>
+       x="14.339299"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3643px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan934">... is modelled with ...</tspan></text>
   </g>
   <g
      id="g973"
@@ -420,13 +431,15 @@
     <text
        id="text971"
        direction="ltr"
-       style="white-space:pre"
+       style="white-space:pre;font-size:22.26200000000000045px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;fill:#000000;"
        text-anchor="start"
        fill="#000000"
        font-size="22.262px"
        font-family="Cascadia, 'Segoe UI Emoji'"
        y="21.714354"
-       x="0">Data</text>
+       x="0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3643px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan946">Data</tspan></text>
   </g>
   <g
      transform="matrix(0.88483134,0,0,0.87166911,47.832081,25.169342)"
@@ -462,17 +475,19 @@
   </g>
   <g
      id="g989"
-     transform="matrix(0.88483112,6.1395746e-4,-6.2322824e-4,0.87166889,331.03237,582.70119)">
+     transform="matrix(0.88483112,6.1395746e-4,-6.2322824e-4,0.87166889,286.29736,588.66586)">
     <text
        id="text987"
        direction="ltr"
-       style="white-space:pre"
+       style="font-size:20px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;white-space:pre;fill:#000000"
        text-anchor="start"
        fill="#000000"
        font-size="20px"
        font-family="Cascadia, 'Segoe UI Emoji'"
        y="20"
-       x="0">... is analyzed to create ...</text>
+       x="0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3643px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan936">... is analyzed to create ...</tspan></text>
   </g>
   <g
      id="g993"
@@ -480,13 +495,15 @@
     <text
        id="text991"
        direction="ltr"
-       style="white-space:pre"
+       style="white-space:pre;font-size:22.26200000000000045px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;fill:#000000;"
        text-anchor="start"
        fill="#000000"
        font-size="22.262px"
        font-family="Cascadia, 'Segoe UI Emoji'"
        y="-42.405823"
-       x="16.402836">Knowledge</text>
+       x="16.402836"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan948">Knowledge</tspan></text>
   </g>
   <g
      transform="matrix(0.88483134,0,0,0.87166911,47.832081,25.169342)"
@@ -522,18 +539,20 @@
   </g>
   <g
      id="g1009"
-     transform="matrix(0.47177018,-0.73743625,0.74857156,0.46475241,227.30881,484.15495)">
+     transform="matrix(0.45066628,-0.73743625,0.71508539,0.46475241,211.78018,522.92529)">
     <text
        dx="0 0 0 0 0 0 0 0 0 0 0 0 -1.6979315"
        id="text1007"
        direction="ltr"
-       style="white-space:pre"
+       style="font-size:20px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;white-space:pre;fill:#000000"
        text-anchor="start"
        fill="#000000"
        font-size="20px"
        font-family="Cascadia, 'Segoe UI Emoji'"
        y="19.318205"
-       x="13.724986">... is used to change ...</text>
+       x="13.724986"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3643px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan932">... is used to change ...</tspan></text>
   </g>
   <g
      id="g1013"
@@ -552,33 +571,39 @@
     <text
        id="text1015"
        direction="ltr"
-       style="white-space:pre"
+       style="font-size:16px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;white-space:pre;fill:#000000"
        text-anchor="start"
        fill="#000000"
        font-size="16px"
-       font-family="Cascadia, Segoe UI Emoji"
-       y="15.5"
-       x="0">What is being studied?</text>
+       font-family="Cascadia, 'Segoe UI Emoji'"
+       y="18.482334"
+       x="-23.858671"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan950">What is being studied?</tspan></text>
     <text
        id="text1017"
        direction="ltr"
-       style="white-space:pre"
+       style="font-size:16px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;white-space:pre;fill:#000000"
        text-anchor="start"
        fill="#000000"
        font-size="16px"
-       font-family="Cascadia, Segoe UI Emoji"
-       y="35"
-       x="0">Who is studying it?</text>
+       font-family="Cascadia, 'Segoe UI Emoji'"
+       y="37.982334"
+       x="-23.858671"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan952">Who is studying it?</tspan></text>
     <text
        id="text1019"
        direction="ltr"
-       style="white-space:pre"
+       style="font-size:16px;font-family:Cascadia, 'Segoe UI Emoji';direction:ltr;text-anchor:start;white-space:pre;fill:#000000"
        text-anchor="start"
        fill="#000000"
        font-size="16px"
-       font-family="Cascadia, Segoe UI Emoji"
-       y="54.5"
-       x="0">Why are they studying it?</text>
+       font-family="Cascadia, 'Segoe UI Emoji'"
+       y="57.482334"
+       x="-23.858671"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan954">Why are they studying it?</tspan></text>
     <text
        id="text1021"
        direction="ltr"
@@ -586,8 +611,14 @@
        text-anchor="start"
        fill="#000000"
        font-size="16px"
-       font-family="Cascadia, Segoe UI Emoji"
-       y="74"
-       x="0">What will they do about it?</text>
+       font-family="Cascadia, 'Segoe UI Emoji'"
+       y="76.98233"
+       x="-23.858671"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Cascadia, 'Segoe UI Emoji';-inkscape-font-specification:'Cascadia, Segoe UI Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan956">What will they do about it?</tspan></text>
   </g>
+  <text
+     xml:space="preserve"
+     id="text938"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect940);" />
 </svg>
