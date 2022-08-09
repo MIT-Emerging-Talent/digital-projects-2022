@@ -7,9 +7,7 @@ const nameToTitle = (name = '') =>
         .join(' ');
 
 export const top = ({ env = {}, home = {} }) =>
-  `# ${env.name ? nameToTitle(env.name) : 'Study Repo'}: ${nameToTitle(
-    env.repo,
-  )}
+  `# ${env.name ? env.name : nameToTitle(env.repo)}
 
 - [Issues](https://github.com/${env.org}/${env.repo}/issues?q=is%3Aopen)
   - [help wanted](https://github.com/${env.org}/${

@@ -1,11 +1,11 @@
 <!-- BEGIN TOP -->
 
-# Class X: Mit React
+# Digital Projects 2022
 
-- [Issues](https://github.com/fake-class/mit-react/issues?q=is%3Aopen)
-  - [help wanted](https://github.com/fake-class/mit-react/issues?q=label%3A%22help%20wanted%22+is%3Aopen)
-  - [questions](https://github.com/fake-class/mit-react/issues?q=label%3Aquestion+is%3Aopen)
-  - [discussion](https://github.com/fake-class/mit-react/issues?q=label%3Adiscussion+is%3Aopen)
+- [Issues](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=is%3Aopen)
+  - [help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3A%22help%20wanted%22+is%3Aopen)
+  - [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Aquestion+is%3Aopen)
+  - [discussion](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Adiscussion+is%3Aopen)
 - [Shared Notes](./shared-notes)
 - [Guides](./guides)
 
@@ -18,7 +18,7 @@
 ## Group 1
 
 > [project repository](https://github.com/MIT-ReACT/group-1-2022),
-> [check-ins](https://github.com/fake-class/mit-react/issues?q=label%3Acheck-in+label%3A%22Group%201%22)
+> [check-ins](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Acheck-in+label%3A%22Group%201%22)
 
 <table><tr><td>
 
@@ -28,9 +28,9 @@
 
 [study repository](https://github.com/JackMwisa/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AJackMwisa+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AJackMwisa+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AJackMwisa+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AJackMwisa+label%3A%22question%22)
 
 </td><td>
 
@@ -40,16 +40,16 @@
 
 [study repository](https://github.com/MOkolla/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AMOkolla+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMOkolla+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AMOkolla+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMOkolla+label%3A%22question%22)
 
 </td></tr></table>
 
 ## Group 2
 
 > [project repository](https://github.com/MIT-ReACT/group-2-2022),
-> [check-ins](https://github.com/fake-class/mit-react/issues?q=label%3Acheck-in+label%3A%22Group%202%22)
+> [check-ins](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Acheck-in+label%3A%22Group%202%22)
 
 <table><tr><td>
 
@@ -59,9 +59,9 @@
 
 [study repository](https://github.com/Mitriqur/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AMitriqur+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMitriqur+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AMitriqur+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMitriqur+label%3A%22question%22)
 
 </td><td>
 
@@ -71,9 +71,9 @@
 
 [study repository](https://github.com/Mafomm/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AMafomm+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMafomm+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AMafomm+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMafomm+label%3A%22question%22)
 
 </td><td>
 
@@ -83,16 +83,16 @@
 
 [study repository](https://github.com/YonTess/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AYonTess+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AYonTess+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AYonTess+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AYonTess+label%3A%22question%22)
 
 </td></tr></table>
 
 ## Group 3
 
 > [project repository](https://github.com/MIT-ReACT/group-3-2022),
-> [check-ins](https://github.com/fake-class/mit-react/issues?q=label%3Acheck-in+label%3A%22Group%203%22)
+> [check-ins](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Acheck-in+label%3A%22Group%203%22)
 
 <table><tr><td>
 
@@ -102,9 +102,9 @@
 
 [study repository](https://github.com/Celse2709/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3ACelse2709+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ACelse2709+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3ACelse2709+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ACelse2709+label%3A%22question%22)
 
 </td><td>
 
@@ -114,9 +114,9 @@
 
 [study repository](https://github.com/mutombo-creator/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Amutombo-creator+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Amutombo-creator+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Amutombo-creator+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Amutombo-creator+label%3A%22question%22)
 
 </td><td>
 
@@ -126,16 +126,16 @@
 
 [study repository](https://github.com/Sia082/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3ASia082+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ASia082+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3ASia082+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ASia082+label%3A%22question%22)
 
 </td></tr></table>
 
 ## Group 4
 
 > [project repository](https://github.com/MIT-ReACT/group-4-2022),
-> [check-ins](https://github.com/fake-class/mit-react/issues?q=label%3Acheck-in+label%3A%22Group%204%22)
+> [check-ins](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Acheck-in+label%3A%22Group%204%22)
 
 <table><tr><td>
 
@@ -145,9 +145,9 @@
 
 [study repository](https://github.com/sosso2022/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Asosso2022+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asosso2022+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Asosso2022+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asosso2022+label%3A%22question%22)
 
 </td><td>
 
@@ -157,9 +157,9 @@
 
 [study repository](https://github.com/joellepidi22/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Ajoellepidi22+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajoellepidi22+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Ajoellepidi22+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajoellepidi22+label%3A%22question%22)
 
 </td><td>
 
@@ -169,9 +169,9 @@
 
 [study repository](https://github.com/NellyF202/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3ANellyF202+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ANellyF202+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3ANellyF202+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ANellyF202+label%3A%22question%22)
 
 </td><td>
 
@@ -181,9 +181,9 @@
 
 [study repository](https://github.com/jawais/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Ajawais+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajawais+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Ajawais+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajawais+label%3A%22question%22)
 
 </td></tr></table>
 
@@ -197,9 +197,9 @@
 
 [study repository](https://github.com/Ahmad-Seyar/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AAhmad-Seyar+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AAhmad-Seyar+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22question%22)
 
 </td><td>
 
@@ -209,9 +209,9 @@
 
 [study repository](https://github.com/Ammecode/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AAmmecode+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAmmecode+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AAmmecode+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAmmecode+label%3A%22question%22)
 
 </td><td>
 
@@ -221,9 +221,9 @@
 
 [study repository](https://github.com/mbmabadie/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Ambmabadie+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ambmabadie+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Ambmabadie+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ambmabadie+label%3A%22question%22)
 
 </td><td>
 
@@ -233,9 +233,9 @@
 
 [study repository](https://github.com/besh3324/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Abesh3324+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Abesh3324+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Abesh3324+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Abesh3324+label%3A%22question%22)
 
 </td></tr><tr><td>
 
@@ -245,9 +245,9 @@
 
 [study repository](https://github.com/Md-Almasri/learning-in-public)
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AMd-Almasri+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMd-Almasri+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AMd-Almasri+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMd-Almasri+label%3A%22question%22)
 
 </td></tr></table>
 
@@ -265,9 +265,9 @@
 
 <h3 id="k80chen">Katie: <a href="https://github.com/k80chen">k80chen</a></h3>
 
-<a href="https://github.com/fake-class/mit-react/issues?q=assignee%3Ak80chen">assigned</a>
+<a href="https://github.com/MIT-ReACT/digital-projects-2022/issues?q=assignee%3Ak80chen">assigned</a>
 \|
-<a href="https://github.com/fake-class/mit-react/issues?q=mentions%3Ak80chen">mentioned</a>
+<a href="https://github.com/MIT-ReACT/digital-projects-2022/issues?q=mentions%3Ak80chen">mentioned</a>
 
 </td><td>
 
@@ -275,9 +275,9 @@
 
 <h3 id="sopzha">Sophie: <a href="https://github.com/sopzha">sopzha</a></h3>
 
-<a href="https://github.com/fake-class/mit-react/issues?q=assignee%3Asopzha">assigned</a>
+<a href="https://github.com/MIT-ReACT/digital-projects-2022/issues?q=assignee%3Asopzha">assigned</a>
 \|
-<a href="https://github.com/fake-class/mit-react/issues?q=mentions%3Asopzha">mentioned</a>
+<a href="https://github.com/MIT-ReACT/digital-projects-2022/issues?q=mentions%3Asopzha">mentioned</a>
 
 </td></tr></table>
 
