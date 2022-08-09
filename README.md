@@ -163,6 +163,18 @@
 
 </td><td>
 
+<img src="./admin/assets/avatars/NellyF202.png" height="200px" width="200px" alt="NellyF202 avatar" />
+
+<h4 id="NellyF202">Nelly - <a href="https://github.com/NellyF202">NellyF202</a></h4>
+
+[study repository](https://github.com/NellyF202/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3ANellyF202+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3ANellyF202+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/jawais.png" height="200px" width="200px" alt="jawais avatar" />
 
 <h4 id="jawais">Osman - <a href="https://github.com/jawais">jawais</a></h4>
