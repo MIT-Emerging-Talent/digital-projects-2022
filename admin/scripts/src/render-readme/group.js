@@ -7,13 +7,17 @@ export const group = (
 ) => `
 ## ${name}
 
-> [project repository](${repo}), [check-ins](https://github.com/${
-  config.home.org
-}/${config.home.repo}/issues?q=label%3Acheck-in+label%3A%22${encodeURIComponent(
-  name,
-)}%22)
+${
+  repo
+    ? `> [project repository](${repo}), [check-ins](https://github.com/${
+        config.home.org
+      }/${
+        config.home.repo
+      }/issues?q=label%3Acheck-in+label%3A%22${encodeURIComponent(name)}%22)`
+    : ''
+}
 
-${topic}
+${topic || ''}
 
 ${
   members && members.length !== 0

@@ -11,6 +11,8 @@
   topic: ''
   repo: https://github.com/MIT-ReACT/group-2-2022
   members:
+    - user: Mitriqur
+      name: Dmitry
     - user: Mafomm
       name: Mikal Afewerki
     - user: YonTess
@@ -20,6 +22,8 @@
   topic: ''
   repo: https://github.com/MIT-ReACT/group-3-2022
   members:
+    - user: Celse2709
+      name: Celse
     - user: mutombo-creator
       name: Mutombo
     - user: Sia082
@@ -33,3 +37,18 @@
       name: Alida
     - user: joellepidi22
       name: Joelle Pidi
+    - user: jawais
+      name: Osman
+
+- name: Workshops Only (no project)
+  members:
+    - user: Ahmad-Seyar
+      name: Ahmad Siar
+    - user: Ammecode
+      name: Amneh
+    - user: mbmabadie
+      name: Badia
+    - user: besh3324
+      name: Bashar
+    - user: Md-Almasri
+      name: Mohieddin

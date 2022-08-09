@@ -53,6 +53,18 @@
 
 <table><tr><td>
 
+<img src="./admin/assets/avatars/Mitriqur.png" height="200px" width="200px" alt="Mitriqur avatar" />
+
+<h4 id="Mitriqur">Dmitry - <a href="https://github.com/Mitriqur">Mitriqur</a></h4>
+
+[study repository](https://github.com/Mitriqur/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AMitriqur+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AMitriqur+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/Mafomm.png" height="200px" width="200px" alt="Mafomm avatar" />
 
 <h4 id="Mafomm">Mikal Afewerki - <a href="https://github.com/Mafomm">Mafomm</a></h4>
@@ -83,6 +95,18 @@
 > [check-ins](https://github.com/fake-class/mit-react/issues?q=label%3Acheck-in+label%3A%22Group%203%22)
 
 <table><tr><td>
+
+<img src="./admin/assets/avatars/Celse2709.png" height="200px" width="200px" alt="Celse2709 avatar" />
+
+<h4 id="Celse2709">Celse - <a href="https://github.com/Celse2709">Celse2709</a></h4>
+
+[study repository](https://github.com/Celse2709/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3ACelse2709+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3ACelse2709+label%3A%22question%22)
+
+</td><td>
 
 <img src="./admin/assets/avatars/mutombo-creator.png" height="200px" width="200px" alt="mutombo-creator avatar" />
 
@@ -136,6 +160,82 @@
 [help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Ajoellepidi22+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Ajoellepidi22+label%3A%22question%22)
+
+</td><td>
+
+<img src="./admin/assets/avatars/jawais.png" height="200px" width="200px" alt="jawais avatar" />
+
+<h4 id="jawais">Osman - <a href="https://github.com/jawais">jawais</a></h4>
+
+[study repository](https://github.com/jawais/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Ajawais+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Ajawais+label%3A%22question%22)
+
+</td></tr></table>
+
+## Workshops Only (no project)
+
+<table><tr><td>
+
+<img src="./admin/assets/avatars/Ahmad-Seyar.png" height="200px" width="200px" alt="Ahmad-Seyar avatar" />
+
+<h4 id="Ahmad-Seyar">Ahmad Siar - <a href="https://github.com/Ahmad-Seyar">Ahmad-Seyar</a></h4>
+
+[study repository](https://github.com/Ahmad-Seyar/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AAhmad-Seyar+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AAhmad-Seyar+label%3A%22question%22)
+
+</td><td>
+
+<img src="./admin/assets/avatars/Ammecode.png" height="200px" width="200px" alt="Ammecode avatar" />
+
+<h4 id="Ammecode">Amneh - <a href="https://github.com/Ammecode">Ammecode</a></h4>
+
+[study repository](https://github.com/Ammecode/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AAmmecode+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AAmmecode+label%3A%22question%22)
+
+</td><td>
+
+<img src="./admin/assets/avatars/mbmabadie.png" height="200px" width="200px" alt="mbmabadie avatar" />
+
+<h4 id="mbmabadie">Badia - <a href="https://github.com/mbmabadie">mbmabadie</a></h4>
+
+[study repository](https://github.com/mbmabadie/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Ambmabadie+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Ambmabadie+label%3A%22question%22)
+
+</td><td>
+
+<img src="./admin/assets/avatars/besh3324.png" height="200px" width="200px" alt="besh3324 avatar" />
+
+<h4 id="besh3324">Bashar - <a href="https://github.com/besh3324">besh3324</a></h4>
+
+[study repository](https://github.com/besh3324/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Abesh3324+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Abesh3324+label%3A%22question%22)
+
+</td></tr><tr><td>
+
+<img src="./admin/assets/avatars/Md-Almasri.png" height="200px" width="200px" alt="Md-Almasri avatar" />
+
+<h4 id="Md-Almasri">Mohieddin - <a href="https://github.com/Md-Almasri">Md-Almasri</a></h4>
+
+[study repository](https://github.com/Md-Almasri/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3AMd-Almasri+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3AMd-Almasri+label%3A%22question%22)
 
 </td></tr></table>
 
