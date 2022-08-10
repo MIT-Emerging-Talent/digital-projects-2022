@@ -2,57 +2,63 @@
   topic: ''
   repo: https://github.com/MIT-ReACT/group-1-2022
   members:
-    - user: JackMwisa
-      name: Jack Mwisa
-    - user: MOkolla
-      name: Mary Okolla
+    - name: Estella
+      user: Ella0222
+    - name: Jack Mwisa
+      user: JackMwisa
+    - name: Mary Okolla
+      user: MOkolla
 
 - name: Group 2
   topic: ''
   repo: https://github.com/MIT-ReACT/group-2-2022
   members:
-    - user: Mitriqur
-      name: Dmitry
-    - user: Mafomm
-      name: Mikal Afewerki
-    - user: YonTess
-      name: Yonatan
+    - name: Ali
+      user: mardanali66
+    - name: Dmitry
+      user: Mitriqur
+    - name: Mikal Afewerki
+      user: Mafomm
+    - name: Yonatan
+      user: YonTess
 
 - name: Group 3
   topic: ''
   repo: https://github.com/MIT-ReACT/group-3-2022
   members:
-    - user: Celse2709
-      name: Celse
-    - user: mutombo-creator
-      name: Mutombo
-    - user: Sia082
-      name: Syed
+    - name: Celse
+      user: Celse2709
+    - name: Mutombo
+      user: mutombo-creator
+    - name: Syed
+      user: Sia082
 
 - name: Group 4
   topic: ''
   repo: https://github.com/MIT-ReACT/group-4-2022
   members:
-    - user: sosso2022
-      name: Alida
-    - user: joellepidi22
-      name: Joelle Pidi
-    - user: NellyF202
-      name: Nelly
-    - user: jawais
-      name: Osman
+    - name: Alida
+      user: sosso2022
+    - name: Federico
+      user: malargue
+    - name: Joelle Pidi
+      user: joellepidi22
+    - name: Nelly
+      user: NellyF202
+    - name: Osman
+      user: jawais
 
 - name: Workshops Only (no project)
   members:
-    - user: Ahmad-Seyar
-      name: Ahmad Siar
-    - user: Ammecode
-      name: Amneh
-    - user: mbmabadie
-      name: Badia
-    - user: besh3324
-      name: Bashar
-    - user: Md-Almasri
-      name: Mohieddin
-    - user: samali40
-      name: Samsam
+    - name: Ahmad Siar
+      user: Ahmad-Seyar
+    - name: Amneh
+      user: Ammecode
+    - name: Badia
+      user: mbmabadie
+    - name: Bashar
+      user: besh3324
+    - name: Mohieddin
+      user: Md-Almasri
+    - name: Samsam
+      user: samali40

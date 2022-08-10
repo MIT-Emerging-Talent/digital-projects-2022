@@ -22,6 +22,18 @@
 
 <table><tr><td>
 
+<img src="./admin/assets/avatars/Ella0222.png" height="200px" width="200px" alt="Ella0222 avatar" />
+
+<h4 id="Ella0222">Estella - <a href="https://github.com/Ella0222">Ella0222</a></h4>
+
+[study repository](https://github.com/Ella0222/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AElla0222+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AElla0222+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/JackMwisa.png" height="200px" width="200px" alt="JackMwisa avatar" />
 
 <h4 id="JackMwisa">Jack Mwisa - <a href="https://github.com/JackMwisa">JackMwisa</a></h4>
@@ -52,6 +64,18 @@
 > [check-ins](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Acheck-in+label%3A%22Group%202%22)
 
 <table><tr><td>
+
+<img src="./admin/assets/avatars/mardanali66.png" height="200px" width="200px" alt="mardanali66 avatar" />
+
+<h4 id="mardanali66">Ali - <a href="https://github.com/mardanali66">mardanali66</a></h4>
+
+[study repository](https://github.com/mardanali66/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Amardanali66+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Amardanali66+label%3A%22question%22)
+
+</td><td>
 
 <img src="./admin/assets/avatars/Mitriqur.png" height="200px" width="200px" alt="Mitriqur avatar" />
 
@@ -151,6 +175,18 @@
 
 </td><td>
 
+<img src="./admin/assets/avatars/malargue.png" height="200px" width="200px" alt="malargue avatar" />
+
+<h4 id="malargue">Federico - <a href="https://github.com/malargue">malargue</a></h4>
+
+[study repository](https://github.com/malargue/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Amalargue+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Amalargue+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/joellepidi22.png" height="200px" width="200px" alt="joellepidi22 avatar" />
 
 <h4 id="joellepidi22">Joelle Pidi - <a href="https://github.com/joellepidi22">joellepidi22</a></h4>
@@ -173,7 +209,7 @@
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ANellyF202+label%3A%22question%22)
 
-</td><td>
+</td></tr><tr><td>
 
 <img src="./admin/assets/avatars/jawais.png" height="200px" width="200px" alt="jawais avatar" />
 
