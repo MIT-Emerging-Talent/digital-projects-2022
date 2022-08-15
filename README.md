@@ -22,6 +22,18 @@
 
 <table><tr><td>
 
+<img src="./admin/assets/avatars/Ahmad-Seyar.png" height="200px" width="200px" alt="Ahmad-Seyar avatar" />
+
+<h4 id="Ahmad-Seyar">Ahmad - <a href="https://github.com/Ahmad-Seyar">Ahmad-Seyar</a></h4>
+
+[study repository](https://github.com/Ahmad-Seyar/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/Ella0222.png" height="200px" width="200px" alt="Ella0222 avatar" />
 
 <h4 id="Ella0222">Estella - <a href="https://github.com/Ella0222">Ella0222</a></h4>
@@ -308,6 +320,18 @@
 [help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asamali40+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asamali40+label%3A%22question%22)
+
+</td><td>
+
+<img src="./admin/assets/avatars/88YalNoo.png" height="200px" width="200px" alt="88YalNoo avatar" />
+
+<h4 id="88YalNoo">Yalda - <a href="https://github.com/88YalNoo">88YalNoo</a></h4>
+
+[study repository](https://github.com/88YalNoo/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3A88YalNoo+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3A88YalNoo+label%3A%22question%22)
 
 </td></tr></table>
 
