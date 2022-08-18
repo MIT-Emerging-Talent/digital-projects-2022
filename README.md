@@ -132,6 +132,18 @@
 
 <table><tr><td>
 
+<img src="./admin/assets/avatars/sinfido.png" height="200px" width="200px" alt="sinfido avatar" />
+
+<h4 id="sinfido">Alexis - <a href="https://github.com/sinfido">sinfido</a></h4>
+
+[study repository](https://github.com/sinfido/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asinfido+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asinfido+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/Celse2709.png" height="200px" width="200px" alt="Celse2709 avatar" />
 
 <h4 id="Celse2709">Celse - <a href="https://github.com/Celse2709">Celse2709</a></h4>
