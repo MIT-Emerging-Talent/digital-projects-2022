@@ -245,18 +245,6 @@
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajawais+label%3A%22question%22)
 
-</td><td>
-
-<img src="./admin/assets/avatars/SoleMarton.png" height="200px" width="200px" alt="SoleMarton avatar" />
-
-<h4 id="SoleMarton">Sole - <a href="https://github.com/SoleMarton">SoleMarton</a></h4>
-
-[study repository](https://github.com/SoleMarton/learning-in-public)
-
-[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ASoleMarton+label%3A%22help%20wanted%22)
-\|
-[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ASoleMarton+label%3A%22question%22)
-
 </td></tr></table>
 
 ## Workshops Only (no project)
@@ -332,6 +320,18 @@
 [help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asamali40+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asamali40+label%3A%22question%22)
+
+</td><td>
+
+<img src="./admin/assets/avatars/SoleMarton.png" height="200px" width="200px" alt="SoleMarton avatar" />
+
+<h4 id="SoleMarton">Sole - <a href="https://github.com/SoleMarton">SoleMarton</a></h4>
+
+[study repository](https://github.com/SoleMarton/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ASoleMarton+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ASoleMarton+label%3A%22question%22)
 
 </td><td>
 

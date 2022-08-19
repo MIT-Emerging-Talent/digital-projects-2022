@@ -51,8 +51,6 @@
       user: NellyF202
     - name: Osman
       user: jawais
-    - name: Sole
-      user: SoleMarton
 
 - name: Workshops Only (no project)
   members:
@@ -68,5 +66,7 @@
       user: Md-Almasri
     - name: Samsam
       user: samali40
+    - name: Sole
+      user: SoleMarton
     - name: Yalda
       user: 88YalNoo
