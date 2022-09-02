@@ -4,12 +4,10 @@
   members:
     - name: Ahmad
       user: Ahmad-Seyar
-    - name: Estella
-      user: Ella0222
     - name: Jack Mwisa
       user: JackMwisa
-    - name: Mary Okolla
-      user: MOkolla
+    - name: Patricia
+      user: PatriciaVuvugithub
 
 - name: Group 2
   topic: ''
@@ -62,6 +60,10 @@
       user: mbmabadie
     - name: Bashar
       user: besh3324
+    - name: Estella
+      user: Ella0222
+    - name: Mary Okolla
+      user: MOkolla
     - name: Mohieddin
       user: Md-Almasri
     - name: Samsam

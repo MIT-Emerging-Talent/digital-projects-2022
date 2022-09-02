@@ -34,18 +34,6 @@
 
 </td><td>
 
-<img src="./admin/assets/avatars/Ella0222.png" height="200px" width="200px" alt="Ella0222 avatar" />
-
-<h4 id="Ella0222">Estella - <a href="https://github.com/Ella0222">Ella0222</a></h4>
-
-[study repository](https://github.com/Ella0222/learning-in-public)
-
-[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AElla0222+label%3A%22help%20wanted%22)
-\|
-[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AElla0222+label%3A%22question%22)
-
-</td><td>
-
 <img src="./admin/assets/avatars/JackMwisa.png" height="200px" width="200px" alt="JackMwisa avatar" />
 
 <h4 id="JackMwisa">Jack Mwisa - <a href="https://github.com/JackMwisa">JackMwisa</a></h4>
@@ -58,15 +46,15 @@
 
 </td><td>
 
-<img src="./admin/assets/avatars/MOkolla.png" height="200px" width="200px" alt="MOkolla avatar" />
+<img src="./admin/assets/avatars/PatriciaVuvugithub.png" height="200px" width="200px" alt="PatriciaVuvugithub avatar" />
 
-<h4 id="MOkolla">Mary Okolla - <a href="https://github.com/MOkolla">MOkolla</a></h4>
+<h4 id="PatriciaVuvugithub">Patricia - <a href="https://github.com/PatriciaVuvugithub">PatriciaVuvugithub</a></h4>
 
-[study repository](https://github.com/MOkolla/learning-in-public)
+[study repository](https://github.com/PatriciaVuvugithub/learning-in-public)
 
-[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMOkolla+label%3A%22help%20wanted%22)
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3APatriciaVuvugithub+label%3A%22help%20wanted%22)
 \|
-[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMOkolla+label%3A%22question%22)
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3APatriciaVuvugithub+label%3A%22question%22)
 
 </td></tr></table>
 
@@ -299,6 +287,30 @@
 
 </td></tr><tr><td>
 
+<img src="./admin/assets/avatars/Ella0222.png" height="200px" width="200px" alt="Ella0222 avatar" />
+
+<h4 id="Ella0222">Estella - <a href="https://github.com/Ella0222">Ella0222</a></h4>
+
+[study repository](https://github.com/Ella0222/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AElla0222+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AElla0222+label%3A%22question%22)
+
+</td><td>
+
+<img src="./admin/assets/avatars/MOkolla.png" height="200px" width="200px" alt="MOkolla avatar" />
+
+<h4 id="MOkolla">Mary Okolla - <a href="https://github.com/MOkolla">MOkolla</a></h4>
+
+[study repository](https://github.com/MOkolla/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMOkolla+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMOkolla+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/Md-Almasri.png" height="200px" width="200px" alt="Md-Almasri avatar" />
 
 <h4 id="Md-Almasri">Mohieddin - <a href="https://github.com/Md-Almasri">Md-Almasri</a></h4>
@@ -321,7 +333,7 @@
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asamali40+label%3A%22question%22)
 
-</td><td>
+</td></tr><tr><td>
 
 <img src="./admin/assets/avatars/SoleMarton.png" height="200px" width="200px" alt="SoleMarton avatar" />
 
