@@ -221,18 +221,6 @@
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ANellyF202+label%3A%22question%22)
 
-</td></tr><tr><td>
-
-<img src="./admin/assets/avatars/jawais.png" height="200px" width="200px" alt="jawais avatar" />
-
-<h4 id="jawais">Osman - <a href="https://github.com/jawais">jawais</a></h4>
-
-[study repository](https://github.com/jawais/learning-in-public)
-
-[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajawais+label%3A%22help%20wanted%22)
-\|
-[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajawais+label%3A%22question%22)
-
 </td></tr></table>
 
 ## Workshops Only (no project)
@@ -323,6 +311,18 @@
 
 </td><td>
 
+<img src="./admin/assets/avatars/jawais.png" height="200px" width="200px" alt="jawais avatar" />
+
+<h4 id="jawais">Osman - <a href="https://github.com/jawais">jawais</a></h4>
+
+[study repository](https://github.com/jawais/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajawais+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Ajawais+label%3A%22question%22)
+
+</td></tr><tr><td>
+
 <img src="./admin/assets/avatars/samali40.png" height="200px" width="200px" alt="samali40 avatar" />
 
 <h4 id="samali40">Samsam - <a href="https://github.com/samali40">samali40</a></h4>
@@ -333,7 +333,7 @@
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Asamali40+label%3A%22question%22)
 
-</td></tr><tr><td>
+</td><td>
 
 <img src="./admin/assets/avatars/SoleMarton.png" height="200px" width="200px" alt="SoleMarton avatar" />
 

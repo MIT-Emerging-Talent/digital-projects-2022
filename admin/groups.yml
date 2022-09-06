@@ -47,8 +47,6 @@
       user: joellepidi22
     - name: Nelly
       user: NellyF202
-    - name: Osman
-      user: jawais
 
 - name: Workshops Only (no project)
   members:
@@ -66,6 +64,8 @@
       user: MOkolla
     - name: Mohieddin
       user: Md-Almasri
+    - name: Osman
+      user: jawais
     - name: Samsam
       user: samali40
     - name: Sole
