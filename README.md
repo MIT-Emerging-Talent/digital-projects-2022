@@ -15,49 +15,6 @@
 
 <!-- BEGIN GROUPS -->
 
-## Group 1
-
-> [project repository](https://github.com/MIT-ReACT/group-1-2022),
-> [check-ins](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Acheck-in+label%3A%22Group%201%22)
-
-<table><tr><td>
-
-<img src="./admin/assets/avatars/Ahmad-Seyar.png" height="200px" width="200px" alt="Ahmad-Seyar avatar" />
-
-<h4 id="Ahmad-Seyar">Ahmad - <a href="https://github.com/Ahmad-Seyar">Ahmad-Seyar</a></h4>
-
-[study repository](https://github.com/Ahmad-Seyar/learning-in-public)
-
-[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22help%20wanted%22)
-\|
-[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22question%22)
-
-</td><td>
-
-<img src="./admin/assets/avatars/JackMwisa.png" height="200px" width="200px" alt="JackMwisa avatar" />
-
-<h4 id="JackMwisa">Jack Mwisa - <a href="https://github.com/JackMwisa">JackMwisa</a></h4>
-
-[study repository](https://github.com/JackMwisa/learning-in-public)
-
-[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AJackMwisa+label%3A%22help%20wanted%22)
-\|
-[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AJackMwisa+label%3A%22question%22)
-
-</td><td>
-
-<img src="./admin/assets/avatars/PatriciaVuvugithub.png" height="200px" width="200px" alt="PatriciaVuvugithub avatar" />
-
-<h4 id="PatriciaVuvugithub">Patricia - <a href="https://github.com/PatriciaVuvugithub">PatriciaVuvugithub</a></h4>
-
-[study repository](https://github.com/PatriciaVuvugithub/learning-in-public)
-
-[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3APatriciaVuvugithub+label%3A%22help%20wanted%22)
-\|
-[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3APatriciaVuvugithub+label%3A%22question%22)
-
-</td></tr></table>
-
 ## Group 2
 
 > [project repository](https://github.com/MIT-ReACT/group-2-2022),
@@ -89,6 +46,18 @@
 
 </td><td>
 
+<img src="./admin/assets/avatars/JackMwisa.png" height="200px" width="200px" alt="JackMwisa avatar" />
+
+<h4 id="JackMwisa">Jack Mwisa - <a href="https://github.com/JackMwisa">JackMwisa</a></h4>
+
+[study repository](https://github.com/JackMwisa/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AJackMwisa+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AJackMwisa+label%3A%22question%22)
+
+</td><td>
+
 <img src="./admin/assets/avatars/Mafomm.png" height="200px" width="200px" alt="Mafomm avatar" />
 
 <h4 id="Mafomm">Mikal Afewerki - <a href="https://github.com/Mafomm">Mafomm</a></h4>
@@ -99,7 +68,7 @@
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AMafomm+label%3A%22question%22)
 
-</td><td>
+</td></tr><tr><td>
 
 <img src="./admin/assets/avatars/YonTess.png" height="200px" width="200px" alt="YonTess avatar" />
 
@@ -119,6 +88,18 @@
 > [check-ins](https://github.com/MIT-ReACT/digital-projects-2022/issues?q=label%3Acheck-in+label%3A%22Group%203%22)
 
 <table><tr><td>
+
+<img src="./admin/assets/avatars/Ahmad-Seyar.png" height="200px" width="200px" alt="Ahmad-Seyar avatar" />
+
+<h4 id="Ahmad-Seyar">Ahmad - <a href="https://github.com/Ahmad-Seyar">Ahmad-Seyar</a></h4>
+
+[study repository](https://github.com/Ahmad-Seyar/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3AAhmad-Seyar+label%3A%22question%22)
+
+</td><td>
 
 <img src="./admin/assets/avatars/sinfido.png" height="200px" width="200px" alt="sinfido avatar" />
 
@@ -154,7 +135,7 @@
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3Amutombo-creator+label%3A%22question%22)
 
-</td><td>
+</td></tr><tr><td>
 
 <img src="./admin/assets/avatars/Sia082.png" height="200px" width="200px" alt="Sia082 avatar" />
 
@@ -220,6 +201,18 @@
 [help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ANellyF202+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3ANellyF202+label%3A%22question%22)
+
+</td></tr><tr><td>
+
+<img src="./admin/assets/avatars/PatriciaVuvugithub.png" height="200px" width="200px" alt="PatriciaVuvugithub avatar" />
+
+<h4 id="PatriciaVuvugithub">Patricia - <a href="https://github.com/PatriciaVuvugithub">PatriciaVuvugithub</a></h4>
+
+[study repository](https://github.com/PatriciaVuvugithub/learning-in-public)
+
+[help wanted](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3APatriciaVuvugithub+label%3A%22help%20wanted%22)
+\|
+[questions](https://github.com/MIT-ReACT/digital-projects-2022/issues/?q=author%3APatriciaVuvugithub+label%3A%22question%22)
 
 </td></tr></table>
 

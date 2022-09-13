@@ -1,14 +1,3 @@
-- name: Group 1
-  topic: ''
-  repo: https://github.com/MIT-ReACT/group-1-2022
-  members:
-    - name: Ahmad
-      user: Ahmad-Seyar
-    - name: Jack Mwisa
-      user: JackMwisa
-    - name: Patricia
-      user: PatriciaVuvugithub
-
 - name: Group 2
   topic: ''
   repo: https://github.com/MIT-ReACT/group-2-2022
@@ -17,6 +6,8 @@
       user: mardanali66
     - name: Dmitry
       user: Mitriqur
+    - name: Jack Mwisa
+      user: JackMwisa
     - name: Mikal Afewerki
       user: Mafomm
     - name: Yonatan
@@ -26,6 +17,8 @@
   topic: ''
   repo: https://github.com/MIT-ReACT/group-3-2022
   members:
+    - name: Ahmad
+      user: Ahmad-Seyar
     - name: Alexis
       user: sinfido
     - name: Celse
@@ -47,6 +40,8 @@
       user: joellepidi22
     - name: Nelly
       user: NellyF202
+    - name: Patricia
+      user: PatriciaVuvugithub
 
 - name: Workshops Only (no project)
   members:
