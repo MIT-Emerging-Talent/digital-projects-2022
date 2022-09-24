@@ -5,6 +5,7 @@ import pipe from '../../utils/pipe.js';
 import { top } from './top.js';
 import { section } from './section.js';
 
+import { workshop } from './workshop.js';
 import { group } from './group.js';
 import { ta } from './ta.js';
 
@@ -13,6 +14,14 @@ import { prettierConfig } from '../../prettier-config.js';
 export const renderReadme = (config = {}) =>
   pipe({
     top: top(config),
+    workshops:
+      config?.workshops?.length > 0
+        ? section(config, {
+            title: 'Workshops',
+            component: workshop,
+            data: config.workshops,
+          })
+        : '',
     groups:
       config?.groups?.length > 0
         ? section(config, {

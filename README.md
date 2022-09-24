@@ -13,6 +13,24 @@
 
 <!-- END TOP -->
 
+<!-- BEGIN WORKSHOPS -->
+
+## Workshops
+
+### [1. Remote Collaboration](https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/1-remote-collaboration)
+
+### [2. The Big Picture](https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/2-the-big-picture)
+
+### [3. Domain and Data](https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/3-domain-and-data)
+
+### [4. Learning from Data](https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/4-learning-from-data)
+
+### [5. Communicating Results](https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/5-communicating-results)
+
+---
+
+<!-- END WORKSHOPS -->
+
 <!-- BEGIN GROUPS -->
 
 ## Group 2

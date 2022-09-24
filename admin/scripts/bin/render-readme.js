@@ -49,7 +49,7 @@ const oldReadme = fs.existsSync(readmePath)
 
 const content = renderReadme(configs);
 
-const newReadme = ['top', 'groups', 'tas', 'techSupport']
+const newReadme = ['top', 'workshops', 'groups', 'tas', 'techSupport']
   .map((sectionName) => [sectionName, content[sectionName]])
   .reduce((all, next) => replaceInReadme(next[0], next[1], all), oldReadme);
 

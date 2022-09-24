@@ -1,0 +1,10 @@
+- name: 1. Remote Collaboration
+  url: https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/1-remote-collaboration
+- name: 2. The Big Picture
+  url: https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/2-the-big-picture
+- name: 3. Domain and Data
+  url: https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/3-domain-and-data
+- name: 4. Learning from Data
+  url: https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/4-learning-from-data
+- name: 5. Communicating Results
+  url: https://github.com/MIT-ReACT/digital-projects-workshops-2022/tree/main/5-communicating-results
